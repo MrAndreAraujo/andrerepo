@@ -5,7 +5,6 @@ This is a test change.
 
 testing changes
 
-I will change this line
-
+The line was changed and removed.
 
 Last line of the file
