@@ -1,0 +1,7 @@
+this is file 4
+
+I like file 4
+
+This is the third text line in file 4
+
+This is the last line
